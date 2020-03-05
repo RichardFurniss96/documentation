@@ -1,6 +1,6 @@
 title: "docs.cloudpilgrim.io"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "nil"
 
 # Enable or disable the site search function (true/false)
 search_enabled: true
