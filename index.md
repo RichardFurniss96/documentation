@@ -6,4 +6,4 @@ description: "This is a WIP docs site
 permalink: /
 ---
 
-# Focus on writing good documentation
+## Focus on writing good documentation

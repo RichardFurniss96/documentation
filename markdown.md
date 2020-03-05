@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A whole lot of Markdownk
+title: A whole lot of markdown
 nav_order: 99
 ---
 
