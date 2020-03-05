@@ -4,3 +4,6 @@ color_scheme: "dark"
 
 # Enable or disable the site search function (true/false)
 search_enabled: true
+
+# Enable or disable heading anchor
+heading_anchors: true
