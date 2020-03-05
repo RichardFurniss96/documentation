@@ -1,4 +1,6 @@
-title: "Cloudpilgrim Docs"
+title: "docs.cloudpilgrim.io"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-search_enabled: false
+
+# Enable or disable the site search function (true/false)
+search_enabled: true
