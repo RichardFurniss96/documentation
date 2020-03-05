@@ -7,3 +7,4 @@ permalink: /
 ---
 
 ## Focus on writing good documentation
+{: .no_toc }
