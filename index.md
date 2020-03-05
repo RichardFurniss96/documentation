@@ -1,12 +1,9 @@
 ---
-title: Test
-has_children: true
-nav_order: 2
+layout: default
+title: Home
+nav_order: 1
+description: "This is a WIP docs site
+permalink: /
 ---
 
-# Look at muh page
-
-Sup
-
-
-gg ez
+# Focus on writing good documentation
