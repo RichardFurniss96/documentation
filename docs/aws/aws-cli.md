@@ -10,14 +10,14 @@ nav_order: 1
 
 ## SSM Parameter Store
 
-**Inserting a parameter into parameter store**
+**Inserting a parameter into parameter store**  
 _Using KMS for encryption_
 
 ```bash
 aws ssm put-parameter --name "$PARAM_NAME" --type SecureString --value "$PARAM_VALUE" --key-id alias/$KMS_KEY_NAME --profle $AWS_PROFILE
 ```
 
-**Retreiving a parameter from parameter store**
+**Retreiving a parameter from parameter store**  
 _Decrypts from KMS, in the London region_
 
 ```bash
