@@ -10,6 +10,8 @@ nav_order: 1
 
 ## SSM Parameter Store
 
+---
+
 **Inserting a parameter into parameter store**  
 _Using KMS for encryption_
 
