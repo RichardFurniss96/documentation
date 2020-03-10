@@ -12,5 +12,5 @@ permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "CNAME"]
 
 aux_links:
-  "https://github.com/fichardfurniss96/documentation":
+  "/richardfurniss96/documentation":
     - "//github.com/richardfurniss96/documentation"
